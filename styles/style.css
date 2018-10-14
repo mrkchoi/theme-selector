@@ -1,0 +1,15 @@
+
+
+
+.input__btn {
+    display: flex;
+    justify-content: space-around;
+}
+
+.input__btn--dark {
+
+}
+
+.input__btn--light {
+    
+}
